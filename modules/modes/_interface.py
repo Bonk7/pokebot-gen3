@@ -22,6 +22,10 @@ class BattleAction(Enum):
 
 
 class BotMode:
+    # Most modes require an active overworld save. Journey modes may also drive
+    # character creation and the title/main menus.
+    can_start_at_title = False
+
     @staticmethod
     def name() -> str:
         """

@@ -19,6 +19,9 @@ For quick help and support, reach out in Discord [#pokebot-gen3-support❔](http
 
 ### Bot Modes
 
+- 🧠 [Shiny Team Agent](pages/Mode%20-%20Shiny%20Team%20Agent.md) (first version)
+- 🗺️ [Emerald Journey Agent](pages/Mode%20-%20Emerald%20Journey%20Agent.md) (New Game opening)
+
 - 🔧 [Manual](pages/Mode%20-%20Manual.md)
 - 🚲 [Acro Bike Bunny Hop](pages/Mode%20-%20Acro%20Bike%20Bunny%20Hop.md)
 - 🍓 [Berry Blender](pages/Mode%20-%20Berry%20Blender.md)

@@ -169,7 +169,7 @@ class EmulatorControls:
                     self.bot_mode_menu.add_command(label=mode.name(), font=bold_font)
                     continue
 
-                if get_game_state() not in (GameState.TITLE_SCREEN, GameState.MAIN_MENU):
+                if mode.can_start_at_title or get_game_state() not in (GameState.TITLE_SCREEN, GameState.MAIN_MENU):
                     try:
                         is_selectable = mode.is_selectable()
                     except Exception:

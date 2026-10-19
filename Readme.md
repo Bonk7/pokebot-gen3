@@ -11,6 +11,14 @@ Initially created to complete a Prof. Oak and Living ✨Shiny✨ Dex Challenge i
 
 # ❓ Getting Started
 
+This fork also includes a first [Shiny Team Agent](wiki/pages/Mode%20-%20Shiny%20Team%20Agent.md):
+a local reactive mode that builds a shiny party, chooses hunt spots, and replans
+around healing, ball reserves and PC transfers. Full story automation is future work.
+
+For English Emerald, [Emerald Journey Agent](wiki/pages/Mode%20-%20Emerald%20Journey%20Agent.md)
+can also start from New Game: it models the opening story through the first rival,
+Pokédex and balls, then works toward the shiny party. Remaining story chapters are future work.
+
 Visit the [wiki](wiki/Readme.md) for information:
 - ❓ [Getting Started](wiki/pages/Getting%20Started.md)
 - 🎮 [Emulator Input Mapping](wiki/pages/Configuration%20-%20Key%20Mappings.md)
